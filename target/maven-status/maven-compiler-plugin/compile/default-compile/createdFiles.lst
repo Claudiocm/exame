@@ -1,0 +1,10 @@
+main\java\modelo\Agendamento.class
+main\java\modelo\Exame.class
+main\java\action\AgendamentoAction.class
+main\java\action\PacienteAction.class
+main\java\dao\AgendamentoDAO.class
+main\java\connection\ConexaoBD.class
+main\java\modelo\Paciente.class
+main\java\action\ExameAction.class
+main\java\dao\ExameDAO.class
+main\java\dao\PacienteDAO.class
